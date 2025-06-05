@@ -50,13 +50,12 @@ A two-proportion z-test was conducted in R to test for statistical significance:
 
 # 📂 **Repository Structure:**  
 ab-testing-saas-onboarding/  
-├── data/                  # A/B test raw data  
-├── analysis/              # SQL and R scripts  
+├── data.xlsx              ---------# A/B test raw data  
+├── analysis/              ---------# SQL and R scripts  
 │   ├── ab_test_analysis.R  
 │   └── ab_test_sql.sql  
 ├── dashboard/  
-│   └── ab_test_dashboard.png  
-├── images/                # Dashboard screenshots  
+│   └── ab_test_dashboard.xlsx  
 └── README.md  
 
 # 💼 **Business Impact:**  
