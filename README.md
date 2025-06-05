@@ -30,5 +30,19 @@ SaaS platforms often face drop-offs during onboarding. This project tests whethe
 
 ## 🧹 **Data Validation & Cleaning**  
 The dataset was inspected for test design violations and cleaned:
+![image](https://github.com/user-attachments/assets/4226080d-5182-46d7-823a-e8b68ab0bc4d)
+
+---
+
+## 📌 **Post-cleaning sample sizes:**
+- Control Group: 18,942 users
+- Treatment Group: 19,086 users
+
+---
+
+## 📊 **Conversion Analysis:**
+Using SQL to calculate conversion rates:
+![image](https://github.com/user-attachments/assets/111fd7a9-feab-41ca-acda-d37460caf668)
+
 
 
