@@ -22,7 +22,7 @@ SaaS platforms often face drop-offs during onboarding. This project tests whethe
 
 
 # 🧹 **Data Validation & Cleaning**  
-The dataset was inspected for test design violations and cleaned:
+The dataset was inspected for test design violations and cleaned:  
 ![image](https://github.com/user-attachments/assets/4226080d-5182-46d7-823a-e8b68ab0bc4d)
 
 # 📌 **Post-cleaning sample sizes:**
