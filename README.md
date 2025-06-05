@@ -3,14 +3,17 @@
 
 **Tools:** Excel • SQL • R • Kaggle(Dataset sourcing)
 
+
 # 📌 Business Problem  
 SaaS platforms often face drop-offs during onboarding. This project tests whether a **new onboarding flow** improves user conversion compared to the existing flow using an A/B testing framework.
+
 
 # 🎯 **Objectives**  
 - Clean and validate experiment data  
 - Perform **statistical hypothesis testing**  
 - Visualize conversion trends using Power BI  
 - Guide product decision-making using data
+
 
 # 🧬 **Experiment Design**  
 | Group      | Description                      |
