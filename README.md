@@ -5,7 +5,7 @@
 
 ---
 
-# 📌 **Business Problem**  
+# 📌 Business Problem  
 SaaS platforms often face drop-offs during onboarding. This project tests whether a **new onboarding flow** improves user conversion compared to the existing flow using an A/B testing framework.
 
 ---
