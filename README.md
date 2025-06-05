@@ -49,15 +49,15 @@ A two-proportion z-test was conducted in R to test for statistical significance:
 ![Screenshot 2025-05-31 210828](https://github.com/user-attachments/assets/e336f5c8-ee1e-4851-85fd-c2d9c0175adf)
 
 # 📂 **Repository Structure:**
-ab-testing-saas-onboarding/
-├── data/                  # A/B test raw data
-├── analysis/              # SQL and R scripts
-│   ├── ab_test_analysis.R
-│   └── ab_test_sql.sql
-├── dashboard/
-│   └── ab_test_dashboard.png
-├── images/                # Dashboard screenshots
-└── README.md
+ab-testing-saas-onboarding/  
+├── data/                  # A/B test raw data  
+├── analysis/              # SQL and R scripts  
+│   ├── ab_test_analysis.R  
+│   └── ab_test_sql.sql  
+├── dashboard/  
+│   └── ab_test_dashboard.png  
+├── images/                # Dashboard screenshots  
+└── README.md  
 
 # 💼 **Business Impact:**
 ![image](https://github.com/user-attachments/assets/da523e6d-8f93-4725-a06f-39e725aa469c)
